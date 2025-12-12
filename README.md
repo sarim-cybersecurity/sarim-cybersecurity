@@ -27,5 +27,5 @@ To grow into a **top-tier ethical hacker** with strong offensive security expert
 and build professional-grade tools & research.
 
 ---
-(LinkedIn, TryHackMe, Medium — add when ready)
+
 
