@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hey, I'm Sarim
 
-<!--
-**sarim-cybersecurity/sarim-cybersecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔐 Ethical Hacking & Cybersecurity  
+Focused on **offensive security**, **web vulnerabilities**, **Linux**, and **Python automation**.  
+Building practical security skillsets through research, tools, and hands-on labs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ What I Do
+- Explore real-world vulnerabilities  
+- Build and test custom security tools  
+- Deep dive into offensive security concepts  
+- Strengthen fundamentals in Linux, networking, and scripting  
+
+---
+
+### 🛠️ Tech & Tools
+- **Languages:** Python, Bash  
+- **Security:** Burp Suite, nmap, ffuf, Hydra, Linux tools  
+- **Platforms:** TryHackMe, HackTheBox  
+- **Focus Areas:** Web security, reconnaissance, automation  
+
+---
+
+### 🎯 Goals
+To grow into a **top-tier ethical hacker** with strong offensive security expertise  
+and build professional-grade tools & research.
+
+---
+(LinkedIn, TryHackMe, Medium — add when ready)
+
